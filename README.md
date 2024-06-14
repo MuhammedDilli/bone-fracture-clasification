@@ -12,8 +12,8 @@ popüler veri artırma teknikleri kullanılmıştır.
 
 
 
-Veri dengesizliği giderilmiş (augmentation uygulanmış) veri seti :
-https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing
+Veri dengesizliği giderilmiş (augmentation uygulanmış) [veri seti:](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
+
 
 # Model ve Açıklaması
 ViT-B/16;
