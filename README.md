@@ -28,6 +28,7 @@ Veri artırımı uygulanmış halinde %96 üzerinde sonuç elde edilirken
 SONUCC_adlı_not_defterinin_kopyası.ipynb
 
 veri artırımı uygulanmamış halinde ise test verisi %53 sonuç vermiştir.
+HAMsonuc_adlı_not_defterinin_kopyası.ipynb
 
 
 
