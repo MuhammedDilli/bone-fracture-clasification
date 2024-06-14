@@ -13,5 +13,13 @@ https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%2
 
 
 Veri dengesizliği giderilmiş (augmentation uygulanmış) veri seti :
-
 https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing
+
+# Model ve Açıklaması
+ViT-B/16;
+Görüntü Tanıma: ViT modelleri, görüntüleri tanıma ve sınıflandırma amacıyla kullanılır. Örneğin, bir görüntüdeki nesneleri tanımlayabilir ve hangi sınıfa ait olduklarını belirleyebilir.
+Transformer Mimarisi: ViT, doğal dil işleme görevlerinde başarıyla kullanılan Transformer mimarisini görüntü tanıma görevlerine uyarlamıştır. Bu yaklaşım, görüntülerin piksellerden oluşan dizileri (sequences) olarak ele alınmasını sağlar.
+Özelliklerin Öğrenilmesi:  Model, görüntülerdeki önemli özellikleri öğrenerek, bu özellikleri sınıflandırma görevlerinde kullanır.
+
+Özetle, ViT-B/16 modeli, Vision Transformer ailesinin bir üyesi olarak, görüntü tanıma ve sınıflandırma görevlerinde kullanılan bir modeldir. Transformer mimarisinin gücünü kullanarak, görüntülerdeki önemli özellikleri öğrenir ve bu özellikleri tanıma ve sınıflandırma işlemlerinde kullanır.
+
