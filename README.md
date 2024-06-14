@@ -10,3 +10,8 @@ popüler veri artırma teknikleri kullanılmıştır.
 # Dataset
 orjinal veri seti:
 https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose.
+
+
+Veri dengesizliği giderilmiş (augmentation uygulanmış) veri seti :
+
+https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing
