@@ -7,6 +7,8 @@ Vision Transformer (ViT) modeli, görüntü işlemenin temelini oluşturan yapay
 # Augmentation
 Veri setinde sınıf dengesizliği olduğundan data augmentation(veri artırma işlemleri yapılmıştır.)
 popüler veri artırma teknikleri kullanılmıştır.
+[Veri Artırma](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Augmentation.ipynb).
+
 # Dataset
 [orjinal veri seti:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
 
