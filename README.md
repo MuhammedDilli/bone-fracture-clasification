@@ -28,7 +28,7 @@ Transformer Mimarisi: ViT, doğal dil işleme görevlerinde başarıyla kullanı
 # Sonuçlar
 Veri artırımı uygulanmış halinde %96 üzerinde sonuç elde edilirken [buraya tıklayabilirsiniz](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb)
 
-veri artırımı uygulanmamış halinde ise test verisi %53 sonuç vermiştir.[buraya tıklayabilirsiniz](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/ham_sonuc.ipynb)
+veri artırımı uygulanmamış halinde ise test verisi %53 sonuç vermiştir.[buraya tıklayabilirsiniz](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/ham_sonuc_.ipynb)
 
 
 
