@@ -24,9 +24,9 @@ Transformer Mimarisi: ViT, doğal dil işleme görevlerinde başarıyla kullanı
 Özetle, ViT-B/16 modeli, Vision Transformer ailesinin bir üyesi olarak, görüntü tanıma ve sınıflandırma görevlerinde kullanılan bir modeldir. Transformer mimarisinin gücünü kullanarak, görüntülerdeki önemli özellikleri öğrenir ve bu özellikleri tanıma ve sınıflandırma işlemlerinde kullanır.
 
 # Sonuçlar
-Veri artırımı uygulanmış halinde %96 üzerinde sonuç elde edilirken 
-SONUCC_adlı_not_defterinin_kopyası.ipynb
-https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb
+Veri artırımı uygulanmış halinde %96 üzerinde sonuç elde edilirken [buraya tıklayabilirsiniz]([https://github.com](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb
+)).
+
 
 
 veri artırımı uygulanmamış halinde ise test verisi %53 sonuç vermiştir.
