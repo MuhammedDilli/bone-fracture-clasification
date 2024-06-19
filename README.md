@@ -1,34 +1,34 @@
-ViT - Kemik görüntü sınıflandırması ve kırık görüntü tespiti 
+ViT - Bone image classification and fracture image detection
 
-# Giriş
-Günümüzde geniş bir kullanıcı kitlesi tarafından benimsenen internet platformları ve dijital sağlık teknolojileri, tıbbi teşhis ve tedavi süreçlerinde önemli bir rol oynamaktadır. Özellikle son yıllarda yapay zeka ve derin öğrenme tekniklerinin gelişimi, tıbbi görüntü analizinde yeni yöntemlerin kullanılmasına olanak sağlamıştır. Bu projede, kemik kırığı sınıflandırılması amacıyla Vision Transformer (ViT) modeli kullanılarak yapılan çalışmanın bulguları sunulmaktadır.
-Vision Transformer (ViT) modeli, görüntü işlemenin temelini oluşturan yapay sinir ağları ve katmanlarının transformer mimarisi ile birleşiminden oluşur. Bu model, kemik kırığı görüntülerini analiz ederek sınıflandırmayı hedeflemektedir. ViT modeli, kemik kırıklarının doğru bir şekilde tespit edilmesi ve sınıflandırılmasında etkili bir rol oynar. Model, eğitim süreci boyunca verilen veri setindeki kırık ve kırık olmayan kemik görüntülerini analiz ederek öğrenir. Bu öğrenme sürecinde, kemik yapısındaki ince detaylar ve kırık bölgelerinin özellikleri belirlenir. Model, bu özellikleri kullanarak kırık ve sağlam kemikler arasındaki farkları anlamayı öğrenir.
+# Entry
+Nowadays, Internet platforms and digital health technologies, which are adopted by a wide range of users, play an important role in medical diagnosis and treatment processes. Especially in recent years, the development of artificial intelligence and deep learning techniques has enabled the use of new methods in medical image analysis. In this project, the findings of the study conducted using the Vision Transformer (ViT) model for the classification of bone fractures are presented.
+The Vision Transformer (ViT) model consists of a combination of artificial neural networks and layers that form the basis of image processing with the transformer architecture. This model aims to classify bone fracture images by analyzing them. The ViT model plays an effective role in the accurate detection and classification of bone fractures. The model learns by analyzing the images of broken and non-broken bones in the data set given during the training process. In this learning process, fine details in the bone structure and the characteristics of the fracture sites are determined. Using these characteristics, the model learns to understand the differences between Decayed and intact bones.
 
 # Augmentation
-Veri setinde sınıf dengesizliği olduğundan data augmentation(veri artırma işlemleri yapılmıştır.)
-popüler veri artırma teknikleri kullanılmıştır.
-[Veri Artırma](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Augmentation.ipynb).
+Since there is a class imbalance in the data set, data augmentation (data augmentation operations have been performed.)
+popular data augmentation techniques have been used.
+[Data Augmentation](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Augmentation.ipynb).
 
 # Dataset
-[orjinal veri seti:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
+[the original data set:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
 
 
 
-Veri dengesizliği giderilmiş (augmentation uygulanmış) [veri seti:](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
+Veri dengesizliği giderilmiş (augmentation uygulanmış) [data set:](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
 
 
-# Model ve Açıklaması
+# Model and Description
 ViT-B/16;
-Görüntü Tanıma: ViT modelleri, görüntüleri tanıma ve sınıflandırma amacıyla kullanılır. Örneğin, bir görüntüdeki nesneleri tanımlayabilir ve hangi sınıfa ait olduklarını belirleyebilir.
-Transformer Mimarisi: ViT, doğal dil işleme görevlerinde başarıyla kullanılan Transformer mimarisini görüntü tanıma görevlerine uyarlamıştır. Bu yaklaşım, görüntülerin piksellerden oluşan dizileri (sequences) olarak ele alınmasını sağlar.
-Özelliklerin Öğrenilmesi:  Model, görüntülerdeki önemli özellikleri öğrenerek, bu özellikleri sınıflandırma görevlerinde kullanır.
+Image Recognition: ViT models are used for the purpose of recognizing and classifying images. For example, it can identify objects in an image and determine which class they belong to.
+Transformer Architecture: ViT has adapted the Transformer architecture, which is successfully used in natural language processing tasks, to image recognition tasks. This approach allows images to be treated as sequences of pixels.
+Learning Features: The model learns important features in the images and uses these features in classification tasks.
 
-Özetle, ViT-B/16 modeli, Vision Transformer ailesinin bir üyesi olarak, görüntü tanıma ve sınıflandırma görevlerinde kullanılan bir modeldir. Transformer mimarisinin gücünü kullanarak, görüntülerdeki önemli özellikleri öğrenir ve bu özellikleri tanıma ve sınıflandırma işlemlerinde kullanır.
+In summary, the ViT-B/16 model, as a member of the Vision Transformer family, is a model used for image recognition and classification tasks. Using the power of transformer architecture, it learns important features in images and uses these features in recognition and classification processes.
 
-# Sonuçlar
-Veri artırımı uygulanmış halinde %96 üzerinde sonuç elde edilirken [buraya tıklayabilirsiniz](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb)
+# Results
+While the result is obtained over 96% if the data increase is applied [you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb)
 
-veri artırımı uygulanmamış halinde ise test verisi %53 sonuç vermiştir.[buraya tıklayabilirsiniz](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/ham_sonuc_.ipynb)
+if the data increase was not applied, the test data gave a result of 53%.[you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/ham_sonuc_.ipynb)
 
 
 
