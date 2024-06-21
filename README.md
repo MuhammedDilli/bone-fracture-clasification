@@ -9,12 +9,9 @@ Since there is a class imbalance in the data set, data augmentation (data augmen
 Popular data augmentation techniques have been used; these include methods such as mosaic and muxip. Additionally,
 augmentations like random rotation, horizontal flipping, brightness adjustment, hue and saturation modification,
 crop and padding, and Gaussian blur have been applied.
-
-![augmentationn](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ba60dd58-cb0a-45b6-8a3f-eeb60bbc5035)
-
-
 popular data augmentation techniques have been used.
 [Data Augmentation](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Augmentation.ipynb).
+![augmentationn](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ba60dd58-cb0a-45b6-8a3f-eeb60bbc5035)
 
 # Dataset
 [the original data set:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
