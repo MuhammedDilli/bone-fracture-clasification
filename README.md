@@ -38,8 +38,8 @@ This table shows the number of data after augmentation, separated by training, v
 | **Total** | **X'+Z'+A'** | **Y'+W'+B'** | **X'+Y'+Z'+W'+A'+B'** |
 
 
-[the original data set:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
-Veri dengesizliği giderilmiş (augmentation uygulanmış) [data set:](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
+[the original data set](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
+[augmentation applied data set](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
 
 
 # Model and Description
