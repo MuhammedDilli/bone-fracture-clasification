@@ -75,6 +75,28 @@ The results I got after eliminating the problem
 
 
 
+### Confusion Matrix
+
+A confusion matrix is a tool used to evaluate the performance of a classification model. It compares the actual values with the predicted values, providing a detailed breakdown of model performance.
+
+#### Key Components:
+- **True Positives (TP):** Correctly predicted positive instances.
+- **True Negatives (TN):** Correctly predicted negative instances.
+- **False Positives (FP):** Incorrectly predicted positive instances.
+- **False Negatives (FN):** Incorrectly predicted negative instances.
+
+#### Why It Matters:
+The confusion matrix helps to:
+1. **Understand Model Accuracy:** It provides insights beyond simple accuracy, highlighting specific types of errors.
+2. **Evaluate Performance on Imbalanced Data:** It offers a balanced evaluation, crucial for datasets with unequal class distributions.
+
+Below is the confusion matrix for our model, showing its performance in classifying fractured and non-fractured instances:
+
+![confision matrix](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/8c46ec40-e000-4e88-9759-fcb53abd5be6)
+
+
+This matrix helps us identify areas where the model performs well and areas that need improvement, ensuring a more reliable and accurate classification system.
+
 
 
 # Results
