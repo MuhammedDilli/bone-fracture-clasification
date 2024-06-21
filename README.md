@@ -4,6 +4,39 @@ ViT - Bone image classification and fracture image detection
 Nowadays, Internet platforms and digital health technologies, which are adopted by a wide range of users, play an important role in medical diagnosis and treatment processes. Especially in recent years, the development of artificial intelligence and deep learning techniques has enabled the use of new methods in medical image analysis. In this project, the findings of the study conducted using the Vision Transformer (ViT) model for the classification of bone fractures are presented.
 The Vision Transformer (ViT) model consists of a combination of artificial neural networks and layers that form the basis of image processing with the transformer architecture. This model aims to classify bone fracture images by analyzing them. The ViT model plays an effective role in the accurate detection and classification of bone fractures. The model learns by analyzing the images of broken and non-broken bones in the data set given during the training process. In this learning process, fine details in the bone structure and the characteristics of the fracture sites are determined. Using these characteristics, the model learns to understand the differences between Decayed and intact bones.
 
+# Model and Description
+ViT-B/16;
+Image Recognition: ViT models are used for the purpose of recognizing and classifying images. For example, it can identify objects in an image and determine which class they belong to.
+Transformer Architecture: ViT has adapted the Transformer architecture, which is successfully used in natural language processing tasks, to image recognition tasks. This approach allows images to be treated as sequences of pixels.
+Learning Features: The model learns important features in the images and uses these features in classification tasks.
+
+In summary, the ViT-B/16 model, as a member of the Vision Transformer family, is a model used for image recognition and classification tasks. Using the power of transformer architecture, it learns important features in images and uses these features in recognition and classification processes.
+
+## Model Architecture: Vision Transformer (ViT)
+
+### Vision Transformer (ViT)
+Vision Transformer (ViT) is a cutting-edge model for image recognition that leverages transformer architecture, typically used in natural language processing. Developed by Google Research, ViT surpasses traditional convolutional neural networks (CNNs) in various benchmarks.
+
+### How ViT Works
+ViT divides an image into fixed-size patches, which are then linearly embedded. Positional embeddings are added, and the sequences are fed into a transformer encoder. This process allows ViT to capture global context and recognize complex patterns.
+
+### Key Features
+- **Patch Embedding:** Splits images into smaller patches.
+- **Positional Encoding:** Retains spatial information.
+- **Transformer Encoder:** Uses self-attention to understand relationships between patches.
+
+### Advantages
+- **Scalability:** Efficiently scaled by increasing model size and training data.
+- **Performance:** Achieves higher accuracy in image classification tasks compared to CNNs.
+
+  
+<img width="321" alt="vittttt" src="https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/b695f4d8-ce33-4a0e-8116-b2d0f5e09fed">
+
+
+
+
+
+
 # Augmentation
 Since there is a class imbalance in the data set, data augmentation (data augmentation operations have been performed.)
 Popular data augmentation techniques have been used; these include methods such as mosaic and muxip. Additionally,
@@ -42,14 +75,6 @@ This table shows the number of data after augmentation, separated by training, v
 
 [Augmentation applied data set](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing)
 
-
-# Model and Description
-ViT-B/16;
-Image Recognition: ViT models are used for the purpose of recognizing and classifying images. For example, it can identify objects in an image and determine which class they belong to.
-Transformer Architecture: ViT has adapted the Transformer architecture, which is successfully used in natural language processing tasks, to image recognition tasks. This approach allows images to be treated as sequences of pixels.
-Learning Features: The model learns important features in the images and uses these features in classification tasks.
-
-In summary, the ViT-B/16 model, as a member of the Vision Transformer family, is a model used for image recognition and classification tasks. Using the power of transformer architecture, it learns important features in images and uses these features in recognition and classification processes.
 
 # Education
 i did the first training without applying augmentation, the first results I received:
