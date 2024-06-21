@@ -33,7 +33,7 @@ the first test result :
 
 ![aaaa](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/f4d5a38d-96df-4092-8126-68922c2b23d7)
 
-![test1](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/e8b18945-d0df-463b-9398-86f2f076b2c1)
+
 
 
 
