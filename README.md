@@ -67,6 +67,14 @@ in these trainings, it was determined that the problem was during the augmentati
 there was an improvement in the results after augmentation.
 
 
+The results I got after eliminating the problem
+![accuracy](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/9cab3fe9-1978-4cd0-84ad-995af50447d3)
+
+![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
+
+
+
+
 
 # Results
 
