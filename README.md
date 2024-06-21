@@ -21,9 +21,9 @@ This table shows the number of fractured and non-fractured data in the original 
 
 | Set    | Fractured | Non-Fractured | Total |
 |----------|----------------|------------------|----------|
-| Train    |     501        |      2296        | 2797 |
-| Val      |     72         |      339         |  411 |
-| Test     |     148        |      674         |  822 |
+|Train(70%)|     501        |      2296        | 2797 |
+|Val(10%)  |     72         |      339         |  411 |
+|Test(%20) |     148        |      674         |  822 |
 | **Total**| **721** | **3309** | **4030** |
 
 ### Data Distribution After Augmentation
@@ -32,9 +32,9 @@ This table shows the number of data after augmentation, separated by training, v
 
 | Set    | Fractured | Non-Fractured | Total |
 |--------|-----------|---------------|-------|
-| Train  |    2296    |     2296     | 4592 |
-| Val    |     339    |     339      | 678  |
-| Test   |    674     |     674      | 1348 |
+| Train(70%)  |    2296    |     2296     | 4592 |
+| Val(10%)     |     339    |     339      | 678  |
+| Test(%20)    |    674     |     674      | 1348 |
 | **Total**| **3309** | **3309** | **6618** |
 
 
