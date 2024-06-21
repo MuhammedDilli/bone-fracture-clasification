@@ -51,7 +51,7 @@ Learning Features: The model learns important features in the images and uses th
 
 In summary, the ViT-B/16 model, as a member of the Vision Transformer family, is a model used for image recognition and classification tasks. Using the power of transformer architecture, it learns important features in images and uses these features in recognition and classification processes.
 
-# education
+# Education
 i did the first training without applying augmentation, the first results I received:
 ![first_education](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/829f5be9-fc05-4c5e-8f17-381a083b93f4)
 
