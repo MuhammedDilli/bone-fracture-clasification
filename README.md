@@ -42,12 +42,12 @@ in these trainings, it was determined that the problem was during the augmentati
 there was an improvement in the results after augmentation.
 
 # Results
-While the result is obtained over 96% if the data increase is applied [you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/SONUCC_adl%C4%B1_not_defterinin_kopyas%C4%B1.ipynb)
+While the result is obtained over 96% if the data increase is applied [you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Fractured_Classification.ipynb)
 ![accuracy](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/8f0f65a8-01f2-4c45-9791-372fa0a95674)
 
 
 
-if the data increase was not applied, the test data gave a result of 53%.[you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/ham_sonuc_.ipynb)
+if the data increase was not applied, the test data gave a result of 53%.[you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/First_education.ipynb)
 
 
 
