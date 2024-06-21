@@ -30,6 +30,7 @@ i did the first training without applying augmentation, the first results I rece
 ![first_education](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/829f5be9-fc05-4c5e-8f17-381a083b93f4)
 
 the first test result :
+![test1](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/bf3cd31a-0f08-40e1-af09-cce4317ac4e2)
 
 ![test1](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/e8b18945-d0df-463b-9398-86f2f076b2c1)
 
