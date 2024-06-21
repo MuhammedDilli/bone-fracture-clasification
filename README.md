@@ -62,9 +62,10 @@ The first test result :
 
 When I ran the project through google colap, it was constantly interrupted by gridsearch i didn't get the result I wanted with gridsearch. [Gridsearch Algorithm](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/grid_search.ipynb)
 
-At the end of 17 different trainings with Bayesian, the maximum obtained training data was given 75%.[Bayesian Algorithm](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/bayesian.ipynb)
-in these trainings, it was determined that the problem was during the augmentation and the augmentation was applied again from the very beginning.
-there was an improvement in the results after augmentation.
+It was not interrupted when running the Bayesian algorithm The maximum training data obtained at the end of 17 different trainings is given as 75%. [Bayesian Algorithm](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/bayesian.ipynb)   
+Bayesian Algorithm In these trainings, it was determined that the problem was during magnification and the magnification was applied again from the very beginning. there was an improvement in the results after the augmentation.
+
+
 
 
 The results I got after eliminating the problem
