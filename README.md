@@ -34,16 +34,17 @@ the first test result :
 ![aaaa](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/f4d5a38d-96df-4092-8126-68922c2b23d7)
 
 
-
-
-
 When I ran the project through google colap, it was constantly interrupted by gridsearch
 i didn't get the result I wanted with gridsearch.
 At the end of 17 different trainings with Bayesian, the maximum obtained training data was given 75%.
 in these trainings, it was determined that the problem was during the augmentation and the augmentation was applied again from the very beginning.
 there was an improvement in the results after augmentation.
 
+
+
 # Results
+
+
 While the result is obtained over 96% if the data increase is applied [you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Fractured_Classification.ipynb)
 ![accuracy](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/8f0f65a8-01f2-4c45-9791-372fa0a95674)
 
