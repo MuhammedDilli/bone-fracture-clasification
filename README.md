@@ -55,7 +55,7 @@ In summary, the ViT-B/16 model, as a member of the Vision Transformer family, is
 i did the first training without applying augmentation, the first results I received:
 ![first_education](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/829f5be9-fc05-4c5e-8f17-381a083b93f4)
 
-the first test result :
+The first test result :
 
 ![aaaa](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/f4d5a38d-96df-4092-8126-68922c2b23d7)
 
