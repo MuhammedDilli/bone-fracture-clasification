@@ -15,10 +15,30 @@ popular data augmentation techniques have been used.
 ![augmentationn](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ba60dd58-cb0a-45b6-8a3f-eeb60bbc5035)
 
 # Dataset
+### Original Data Distribution
+
+This table shows the number of fractured and non-fractured data in the original dataset, separated by training, validation, and test sets.
+
+| Set    | Fractured | Non-Fractured | Total |
+|----------|----------------|------------------|----------|
+| Train    |     501        |      2296        | 2296+501 |
+| Val      |     72         |      339         |  72+339  |
+| Test     |     148        |      674         |  148+674 |
+| **Total**| **501+72+148** | **2296+339+674** | **2296+501+72+339+148+674** |
+
+### Data Distribution After Augmentation
+
+This table shows the number of data after augmentation, separated by training, validation, and test sets.
+
+| Set    | Fractured | Non-Fractured | Total |
+|--------|-----------|---------------|-------|
+| Train  |    X'     |      Y'       | X'+Y' |
+| Val    |    Z'     |      W'       | Z'+W' |
+| Test   |    A'     |      B'       | A'+B' |
+| **Total** | **X'+Z'+A'** | **Y'+W'+B'** | **X'+Y'+Z'+W'+A'+B'** |
+
+
 [the original data set:](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose).
-
-
-
 Veri dengesizliği giderilmiş (augmentation uygulanmış) [data set:](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing).
 
 
