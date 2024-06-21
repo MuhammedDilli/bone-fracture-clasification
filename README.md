@@ -21,10 +21,10 @@ This table shows the number of fractured and non-fractured data in the original 
 
 | Set    | Fractured | Non-Fractured | Total |
 |----------|----------------|------------------|----------|
-| Train    |     501        |      2296        | 2296+501 |
-| Val      |     72         |      339         |  72+339  |
-| Test     |     148        |      674         |  148+674 |
-| **Total**| **501+72+148** | **2296+339+674** | **2296+501+72+339+148+674** |
+| Train    |     501        |      2296        | 2797 |
+| Val      |     72         |      339         |  411 |
+| Test     |     148        |      674         |  822 |
+| **Total**| **721** | **3309** | **4030** |
 
 ### Data Distribution After Augmentation
 
@@ -32,10 +32,10 @@ This table shows the number of data after augmentation, separated by training, v
 
 | Set    | Fractured | Non-Fractured | Total |
 |--------|-----------|---------------|-------|
-| Train  |    X'     |      Y'       | X'+Y' |
-| Val    |    Z'     |      W'       | Z'+W' |
-| Test   |    A'     |      B'       | A'+B' |
-| **Total** | **X'+Z'+A'** | **Y'+W'+B'** | **X'+Y'+Z'+W'+A'+B'** |
+| Train  |    2296    |     2296     | 4592 |
+| Val    |     339    |     339      | 678  |
+| Test   |    674     |     674      | 1348 |
+| **Total**| **3309** | **3309** | **6618** |
 
 
 [The original data set](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose)
