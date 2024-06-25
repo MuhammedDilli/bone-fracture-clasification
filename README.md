@@ -128,7 +128,6 @@ This matrix helps us identify areas where the model performs well and areas that
 Precision measures how many of the instances predicted as positive are actually positive. In other words, it is the ratio of true positive predictions to the total number of positive predictions made by the model.
 
 **Formula:**
-
 Precision = True Positives (TP) / (True Positives (TP) + False Positives (FP))
 
 
@@ -136,14 +135,12 @@ Precision = True Positives (TP) / (True Positives (TP) + False Positives (FP))
 Recall measures how many of the actual positive instances the model correctly identified. It indicates the model's ability to capture all positive instances.
 
 **Formula:**
-
 Recall = True Positives (TP) / (True Positives (TP) + False Negatives (FN))
 
 ### F1 Score
 The F1 score is the harmonic mean of precision and recall. It provides a single metric that balances both precision and recall, and is particularly useful when you need to consider both false positives and false negatives.
 
 **Formula:**
-
 F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 Each of these metrics provides a different perspective on the model's performance. Precision indicates the accuracy of the positive predictions, recall indicates the model's ability to identify all positive instances, and the F1 score balances both precision and recall to give a comprehensive measure of performance.
