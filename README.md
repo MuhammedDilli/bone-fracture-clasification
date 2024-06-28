@@ -66,9 +66,9 @@ This table shows the number of data after augmentation, separated by training, v
 | Set    | Fractured | Non-Fractured | Total |
 |--------|-----------|---------------|-------|
 | Train(70%)  |    2296    |     2296     | 4592 |
-| Val(10%)     |     339    |     339      | 678  |
-| Test(%20)    |    674     |     674      | 1348 |
-| **Total**| **3309** | **3309** | **6618** |
+| Val(10%)     |     72    |     339      | 441  |
+| Test(%20)    |    148     |     674      | 822 |
+| **Total**| **2516** | **3309** | **6618** |
 
 
 [The original data set](https://figshare.com/articles/dataset/The_dataset/22363012/6#:~:text=FracAtlas%20is%20a%20musculoskeletal%20bone,freely%20available%20for%20any%20purpose)
@@ -76,7 +76,7 @@ This table shows the number of data after augmentation, separated by training, v
 [Augmentation applied data set](https://drive.google.com/drive/folders/1NE0g2E59HRR8-kuToFSlJst1KZKVH6fW?usp=sharing)
 
 
-# Education
+# TRAİN
 i did the first training without applying augmentation, the first results I received:
 ![first_education](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/829f5be9-fc05-4c5e-8f17-381a083b93f4)
 
