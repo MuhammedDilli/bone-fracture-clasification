@@ -153,9 +153,9 @@ Each of these metrics provides a different perspective on the model's performanc
 # Results
 
 
-While the result is obtained over 96% if the data increase is applied [you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Fractured_Classification.ipynb)
+While the result is obtained over 96% if the data increase is applied,
 
-if the data increase was not applied, the test data gave a result of 53%.[you can click here](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/First_education.ipynb)
+if the data Augmentation was not applied, the test data gave a result of 53%.
 
 
 
