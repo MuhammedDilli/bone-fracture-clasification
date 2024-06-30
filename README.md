@@ -94,6 +94,7 @@ Bayesian Algorithm In these trainings, it was determined that the problem was du
 
 
 The results I got after eliminating the problem
+
 ![trainOrVal](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/1ebfdb9b-06e6-4d83-bca4-facf36ade0b9)
 
 ![Testacc](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/3aa04300-e7f7-42be-bb2f-f4ab67b16350)
