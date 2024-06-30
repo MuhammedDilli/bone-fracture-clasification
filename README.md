@@ -106,6 +106,7 @@ The results I got after eliminating the problem
 
 ![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
 
+# Evaluation Metrics
 
 ### Confusion Matrix
 
@@ -177,6 +178,14 @@ The ROC curve is a graphical tool used to evaluate the performance of a classifi
   - **Formula:** FPR = FP / (FP + TN)
   
 ![ROC](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/4e83a3c7-8e07-46cd-8bcf-02d3bc4fddb3)
+
+
+
+# Model Prediction
+
+ Model prediction is the process where a trained machine learning model is used to make predictions on new, unseen data.
+
+ ![PREDİCT GİTHUB](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/b4833cfc-89b9-4e88-8480-8196361c81f0)
 
 
 # Results
