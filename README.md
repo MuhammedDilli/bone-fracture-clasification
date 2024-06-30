@@ -94,10 +94,16 @@ Bayesian Algorithm In these trainings, it was determined that the problem was du
 
 
 The results I got after eliminating the problem
+![trainOrVal](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/1ebfdb9b-06e6-4d83-bca4-facf36ade0b9)
+![Testacc](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/3aa04300-e7f7-42be-bb2f-f4ab67b16350)
+
+
+
+# Fine Tune
+
 ![accuracy](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/9cab3fe9-1978-4cd0-84ad-995af50447d3)
 
 ![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
-
 
 
 ### Confusion Matrix
