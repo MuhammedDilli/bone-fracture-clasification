@@ -106,7 +106,10 @@ The results I got after eliminating the problem
 
 ![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
 
+
+
 # Evaluation Metrics
+
 
 ### Confusion Matrix
 
