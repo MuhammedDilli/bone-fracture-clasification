@@ -101,8 +101,8 @@ The results I got after eliminating the problem
 
 # Fine Tune
 
+![accs](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ec218519-0f5a-4b9c-9efc-6dcd02616589)
 
-![accuracy](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/9cab3fe9-1978-4cd0-84ad-995af50447d3)
 
 ![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
 
