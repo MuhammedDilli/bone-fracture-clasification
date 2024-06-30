@@ -124,7 +124,8 @@ The confusion matrix helps to:
 
 Below is the confusion matrix for our model, showing its performance in classifying fractured and non-fractured instances:
 
-![confision matrix](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/8c46ec40-e000-4e88-9759-fcb53abd5be6)
+![cnfsion](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ecd537f2-7707-48d7-bfba-630fc70b898b)
+
 
 
 This matrix helps us identify areas where the model performs well and areas that need improvement, ensuring a more reliable and accurate classification system.
@@ -152,9 +153,30 @@ F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 Each of these metrics provides a different perspective on the model's performance. Precision indicates the accuracy of the positive predictions, recall indicates the model's ability to identify all positive instances, and the F1 score balances both precision and recall to give a comprehensive measure of performance.
 
-![precision](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/4bfe3ca1-7d2e-4489-9b8e-51f6d938b582)
+### Specificity
+
+Specificity measures how many of the actual negative instances the model correctly identified. It indicates the model's ability to capture all negative instances.
 
 
+**Formula:**
+Specificity = True Negatives (TN) / (True Negatives (TN) + False Positives (FP))
+
+
+
+![metrg](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/745bd092-1d53-4297-9eae-d44519d04c36)
+
+
+## ROC (Receiver Operating Characteristic) Curve
+The ROC curve is a graphical tool used to evaluate the performance of a classification model. It visualizes how well the model performs across different threshold values.
+
+### Key Components:
+- **True Positive Rate (TPR) / Recall / Sensitivity:** The ratio of correctly predicted positive instances to the total actual positive instances.
+  - **Formula:** TPR = TP / (TP + FN)
+
+- **False Positive Rate (FPR):** The ratio of incorrectly predicted positive instances to the total actual negative instances.
+  - **Formula:** FPR = FP / (FP + TN)
+  
+![ROC](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/4e83a3c7-8e07-46cd-8bcf-02d3bc4fddb3)
 
 
 # Results
