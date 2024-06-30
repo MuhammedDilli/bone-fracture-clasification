@@ -44,7 +44,7 @@ augmentations like random rotation, horizontal flipping, brightness adjustment, 
 crop and padding, and Gaussian blur have been applied.
 
 popular data augmentation techniques have been used.
-[Data Augmentation](https://github.com/MuhammedDilli/bone-fracture-clasification/blob/main/Augmentation.ipynb).
+
 ![augmentationn](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ba60dd58-cb0a-45b6-8a3f-eeb60bbc5035)
 
 # Dataset
