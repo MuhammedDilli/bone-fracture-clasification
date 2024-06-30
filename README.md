@@ -101,10 +101,10 @@ The results I got after eliminating the problem
 
 # Fine Tune
 
-![accs](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/ec218519-0f5a-4b9c-9efc-6dcd02616589)
+![fine tune acc](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/42dfdca2-f291-4a21-bf63-f707a1a2b5ab)
 
 
-![test2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/130a8c57-1b3d-4953-ad37-73c998f9f746)
+![fine tune](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/34387ecb-a3cd-43b0-b281-13d1c388879a)
 
 
 
