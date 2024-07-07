@@ -200,7 +200,7 @@ The ROC curve is a graphical tool used to evaluate the performance of a classifi
 
 | Model          | Accuracy | Precision | F1 Score | Recall | Specificity | IoU   |
 |----------------|----------|-----------|----------|--------|-------------|-------|
-| VİT            | 0.89     | 0.87      | 0.93     |  1     | 0.39        | 0.87  |
+| Vision Transormer| 0.89     | 0.87      | 0.93     |  1     | 0.39        | 0.87  |
 | Swin Transformer | 0.90   | 0.88      | 0.94     |  1     | 0.48        | 0.88  |
 | ResNet         | 0.90     | 0.88      | 0.94     |  1     | 0.48        | 0.88  |
 
