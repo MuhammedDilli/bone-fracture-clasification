@@ -189,6 +189,36 @@ The ROC curve is a graphical tool used to evaluate the performance of a classifi
  Model prediction is the process where a trained machine learning model is used to make predictions on new, unseen data.
 
  ![PREDİCT GİTHUB](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/b4833cfc-89b9-4e88-8480-8196361c81f0)
+ 
+# Weight & Biases
+Weight & Biases (W&B) is an experiment tracking and optimization platform developed for machine learning projects. Researchers and data scientists can use W&B to track their experiments, perform hyperparameter optimization, and visualize model performance. The platform enhances the efficiency and transparency of the model training process, making it easier to determine which hyperparameter settings yield the best results.
+
+ ### HyperParametre code
+ 
+![hyperparametre](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/4820a255-d825-42fa-a7bf-372dd6047a68)
+
+
+HyperParametre  graphs
+
+![w B2](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/8cc3c2ab-9bb4-4c10-acc6-5d048f83a166)
+
+
+### model evaluation metrics and graphs
+
+
+![w b metik1](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/9ff264a4-4600-493e-a660-64b3488b09e1)
+
+
+![WB3](https://github.com/MuhammedDilli/bone-fracture-clasification/assets/100585981/49df225a-2124-44f9-a7bd-0f376707fb0f)
+
+
+
+
+
+
+
+
+
 
 
 # Results
