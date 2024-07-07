@@ -196,7 +196,7 @@ The ROC curve is a graphical tool used to evaluate the performance of a classifi
 |------------------|----------|-----------|----------|--------|-------------|-------|--------------|
 | Augmentationsuz  | 0.53     | 0.41      | 0.25     | 0.16   | 0.81        | 0.11  |     0.16     |
 | Augmentationlu   | 0.95     | 0.96      | 0.97     |   1    | 0.88        | 0.85 |      1        |
-| Fine-tune        | 0.96     | 0.98      | 0.98     |   1    | 0.88        | 0.88  |      1       |
+| Fine-tune        | 0.97     | 0.98      | 0.98     |   1    | 0.88        | 0.88  |      1       |
 
 | Model          | Accuracy | Precision | F1 Score | Recall | Specificity | IoU   |
 |----------------|----------|-----------|----------|--------|-------------|-------|
