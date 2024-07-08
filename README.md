@@ -228,11 +228,11 @@ HyperParametre  graphs
 | Augmentationlu   | 0.95     | 0.96      | 0.97     |   1    | 0.88        |      1       |
 | Fine-tune        | 0.97     | 0.98      | 0.98     |   1    | 0.88        |      1       |
 
-| Model          | Accuracy | Precision | F1 Score | Recall | Specificity | IoU   |
-|----------------|----------|-----------|----------|--------|-------------|-------|
-| Vision Transormer| 0.89     | 0.87      | 0.93     |  1     | 0.39        | 0.87  |
-| Swin Transformer | 0.90   | 0.88      | 0.94     |  1     | 0.48        | 0.88  |
-| ResNet         | 0.90     | 0.88      | 0.94     |  1     | 0.48        | 0.88  |
+| Model          | Accuracy | Precision | F1 Score | Recall | Specificity |
+|----------------|----------|-----------|----------|--------|-------------|
+| Vision Transormer| 0.89     | 0.87      | 0.93     |  1     | 0.39      | 
+| Swin Transformer | 0.90   | 0.88      | 0.94     |  1     | 0.48        | 
+| ResNet         | 0.90     | 0.88      | 0.94     |  1     | 0.48        |
 
 
 
