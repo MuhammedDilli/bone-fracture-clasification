@@ -222,11 +222,11 @@ HyperParametre  graphs
 
 
 # Results
-| Vision Transformer | Accuracy | Precision | F1 Score | Recall | Specificity | IoU   | Sensitivity  |
-|------------------|----------|-----------|----------|--------|-------------|-------|--------------|
-| Augmentationsuz  | 0.53     | 0.41      | 0.25     | 0.16   | 0.81        | 0.11  |     0.16     |
-| Augmentationlu   | 0.95     | 0.96      | 0.97     |   1    | 0.88        | 0.85 |      1        |
-| Fine-tune        | 0.97     | 0.98      | 0.98     |   1    | 0.88        | 0.88  |      1       |
+| Vision Transformer | Accuracy | Precision | F1 Score | Recall | Specificity | Sensitivity |
+|------------------|----------|-----------|----------|--------|-------------|--------------|
+| Augmentationsuz  | 0.53     | 0.41      | 0.25     | 0.16   | 0.81        |    0.16     |
+| Augmentationlu   | 0.95     | 0.96      | 0.97     |   1    | 0.88        |      1       |
+| Fine-tune        | 0.97     | 0.98      | 0.98     |   1    | 0.88        |      1       |
 
 | Model          | Accuracy | Precision | F1 Score | Recall | Specificity | IoU   |
 |----------------|----------|-----------|----------|--------|-------------|-------|
